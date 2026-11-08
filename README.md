@@ -1,6 +1,6 @@
 # Gamepad Overlay
 
-**手柄按什么键，屏幕上就亮什么。** 一个常驻桌面、可鼠标穿透的 HTML 手柄浮层，用来录攻略 / 直播 / 复盘操作。
+**手柄按键映射** 一个常驻桌面、鼠标可穿透的 HTML 手柄浮层，可用于录屏 / 直播 / 复盘操作。
 
 *A lightweight Windows overlay that shows your controller's inputs on screen in real time — buttons, triggers, sticks, plus live FPS and battery. Transparent, always-on-top, click-through, single exe, no installer.*
 
